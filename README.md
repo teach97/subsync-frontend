@@ -1,4 +1,6 @@
 <img width="400" height="518" alt="설정탭" src="https://github.com/user-attachments/assets/f43329df-4d64-47d0-a0ea-5db2090321bb" />
+<img width="800" height="450" alt="UI 인터랙티브2" src="https://github.com/user-attachments/assets/23395cff-732b-4de4-aa7a-994b2c8e2f7a" />
+
 # SubSync Frontend
 
 
