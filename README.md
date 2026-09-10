@@ -1,6 +1,6 @@
+<img width="400" height="518" alt="설정탭" src="https://github.com/user-attachments/assets/f43329df-4d64-47d0-a0ea-5db2090321bb" />
 # SubSync Frontend
 
-Uploading UI 인터랙티브.mp4…
 
 
 
