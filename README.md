@@ -1,5 +1,7 @@
 # SubSync Frontend
-<img width="400" height="300" alt="저장소탭" src="https://github.com/user-attachments/assets/c2e40ec4-cf19-4d37-9aea-c9b179f7720a" />
+
+Uploading UI 인터랙티브.mp4…
+
 
 
 YouTube에서 영어·한국어 이중자막을 보고, 자막 속 단어를 학습하며, 영상 문맥 기반 AI Tutor를 사용할 수 있는 Chrome 확장 프로그램입니다.
